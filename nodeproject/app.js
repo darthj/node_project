@@ -1,2 +1,2 @@
-var aloha = "Aloha Abigail R.";
-console.log(aloha);
+var express = require('express');
+var app = express();
